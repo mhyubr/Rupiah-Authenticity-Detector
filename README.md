@@ -1,7 +1,7 @@
 # Rupiah-Authenticity-Detector
 
 <p align="center">
-  <img src="real_fake_rupiah/assets/images/Mockup%20Start%20App.png" alt="Screenshot 1" width="200" style="margin-right:50px;"/>
+  <img src="real_fake_rupiah/assets/images/Mockup%20Start%20App.png" alt="Screenshot 1" width="400" style="margin-right: 20px;"/>
   <img src="real_fake_rupiah/assets/images/Mockup%20Asli.png" alt="Screenshot 2" width="200 style="margin-right:50px;"/>
   <img src="real_fake_rupiah/assets/images/Mockup%20Palsu.png" alt="Screenshot 3" width="200 style="margin-right:50px;"/>
 </p>
