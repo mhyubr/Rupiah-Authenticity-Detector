@@ -2,7 +2,8 @@
 
 <p align="center">
   <img src="real_fake_rupiah/assets/images/Mockup%20Start%20App.png" alt="Screenshot 1" width="200"/>
-  <img src="real_fake_rupiah/assets/images/Mockup%20Palsu.png" alt="Screenshot 2" width="200"/>
+  <img src="real_fake_rupiah/assets/images/Mockup%20Asli.png" alt="Screenshot 2" width="200"/>
+  <img src="real_fake_rupiah/assets/images/Mockup%20Palsu.png" alt="Screenshot 3" width="200"/>
 </p>
 
 Rupiah-Authenticity-Detector adalah proyek yang menggabungkan pembelajaran mesin dengan aplikasi mobile untuk mendeteksi keaslian uang Rupiah. Proyek ini menggunakan model deteksi gambar berbasis TensorFlow untuk menentukan apakah uang tersebut asli atau palsu, dengan antarmuka pengguna yang dibangun menggunakan Flutter.
